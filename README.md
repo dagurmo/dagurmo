@@ -1,10 +1,11 @@
 # 👋 Hello, I'm Dagur!
 
-![Banner](./banner.png)
 
-🌱 I’m currently learning **Machine Learning**  
-🔭 I’m working on [Awesome Project](https://github.com/your-repo)  
-📫 Reach me at [jane.doe@gmail.com](mailto:jane.doe@gmail.com)
+
+🌱 I’m currently learning **Software Engineering**  
+📫 Reach me at [dagurmar03@gmail.com](mailto:dagurmar03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/dagur-m%C3%A1r-oddsson-58819a2ba/)
+
 
 ---
 
