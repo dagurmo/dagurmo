@@ -5,7 +5,8 @@
 🌱 I am currently studying Software Engineering at Reykjavík University, with a passion for clean code, problem-solving and innovation.
 
 📫 Reach me at [dagurmar03@gmail.com](mailto:dagurmar03@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/dagur-m%C3%A1r-oddsson-58819a2ba/)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/dagur-m%C3%A1r-oddsson-58819a2ba/) Dagur Már Oddsson on LinkedIn
 
 
 ---
