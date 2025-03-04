@@ -2,7 +2,7 @@
 
 
 
-🌱 I’m currently learning **Software Engineering**  
+🌱 Studying Software Engineering at Reykjavík University, with a passion for clean code, problem-solving and innovation.
 📫 Reach me at [dagurmar03@gmail.com](mailto:dagurmar03@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/dagur-m%C3%A1r-oddsson-58819a2ba/)
 
@@ -10,17 +10,13 @@
 ---
 
 ## 🛠 Skills
+### **Programming Languages**
+- Python, C, C++, Java, JavaScript, HTML, CSS, React
 
-| Language      | Proficiency |
-|---------------|-------------|
-| Python        | Advanced    |
-| JavaScript    | Intermediate|
-
+### **Tools & Technologies**
+- JSON, REST, PostgreSQL, SQL, Postman, LaTeX, Docker, RabbitMQ, PowerBI
 ---
 
-## 📈 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jane-doe&show_icons=true&theme=radical)
 
 
 <!--
